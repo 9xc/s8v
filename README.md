@@ -47,7 +47,7 @@ async def primarylanguages(ctx):
 async def aboutme(ctx):
     aboutem = discord.Embed(
         title="Some Info About Me :)",
-        description="My Name: Max / Vxi\nMy Location: Britan\nMy Hobbies: Coding, Gaming, Scooting And Watching Movies",
+        description="My Name: Max / Vxi\nMy Discord Name Is: Max?#1234\nTwitter Name: sslmalware\nMy Location: Britan\nMy Hobbies: Coding, Gaming, Scooting And Watching Movies",
         color=discord.Colour.dark_purple()
     )
     await ctx.send(embed = aboutem)
