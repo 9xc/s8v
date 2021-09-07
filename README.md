@@ -21,8 +21,6 @@
   <img alt="Json" src="https://img.shields.io/badge/-Json-c2a721?style=flat-square&logo=json&logoColor=white" />
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838875865177784350)](https://discord.com/users/838875865177784350)
-
 
 ### Get to know me...
 ```py
