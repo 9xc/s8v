@@ -21,6 +21,11 @@
   <img alt="Json" src="https://img.shields.io/badge/-Json-c2a721?style=flat-square&logo=json&logoColor=white" />
 </p>
 
+<a href="https://discord.com/users/838875865177784350">
+  <p align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/838875865177784350" />
+  </p>
+
 ### Get to know me...
 ```py
 import discord
