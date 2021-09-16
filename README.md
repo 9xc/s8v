@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <b>*Main / Owner / Developer at <a href="https://vxi.one">Vxi.one / Mememail</a> · Developer*<b>
+  Main / Owner / Developer at <a href="https://vxi.one">Vxi.one / Mememail</a> · Developer
   <a href="https://twitter.com/sslmalware">Twitter</a> |
   <a href="https://github.com/s8v">Github</a>
   <br><br>
