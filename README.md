@@ -2,7 +2,6 @@
 
 
 <p align="center">
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=s8v.s8v)
   <b>🖤 Follow me here:</b><br>
   <a href="https://twitter.com/sslmalware">Twitter</a> |
   <a href="https://github.com/s8v">Github</a>
