@@ -42,9 +42,9 @@
                               
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Its-Vichy?style=social">
-  <img src="https://img.shields.io/github/stars/Its-Vichy?style=social">
-  <img src="https://komarev.com/ghpvc/?username=Its-Vichy&color=blue">
+  <img src="https://img.shields.io/github/followers/s8v?style=social">
+  <img src="https://img.shields.io/github/stars/s8v?style=social">
+  <img src="https://komarev.com/ghpvc/?username=s8v&color=blue">
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=its-vichy">
