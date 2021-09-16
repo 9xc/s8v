@@ -1,9 +1,18 @@
 <h1 align=center>Hi! I'm Max / Vxi 👋</h1>
 
 *Main / Owner / Developer at <a href="https://vxi.one">Vxi.one / Mememail</a> · Developer*
-<br><br>
-<img src="https://64.media.tumblr.com/94405cfd431c45b52a4dc0f228276687/tumblr_obhulhi6621uc9x1zo1_500.gifv">
-<br><br>
+
+
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://twitter.com/sslmalware">Twitter</a> |
+  <a href="https://github.com/s8v">Github</a>
+  <br><br>
+  <img src="https://64.media.tumblr.com/94405cfd431c45b52a4dc0f228276687/tumblr_obhulhi6621uc9x1zo1_500.gifv">
+  <br><br>
+</p>
+
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=s8v.s8v)
 
 ### Languages I use.
