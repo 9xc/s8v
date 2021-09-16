@@ -44,13 +44,10 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/s8v?style=social">
   <img src="https://img.shields.io/github/stars/s8v?style=social">
-  <img src="https://komarev.com/ghpvc/?username=s8v&color=blue">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=s8v.s8v">
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=its-vichy">
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=s8v&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Max's stats" /> </p>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=s8v">
 
 
 
