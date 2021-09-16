@@ -30,12 +30,12 @@
   <img alt="Json" src="https://img.shields.io/badge/-Json-c2a721?style=flat-square&logo=json&logoColor=white" />
 </p>
 
-<p align="center">
+
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838875865177784350
                               )](https://discord.com/users/838875865177784350)
                               [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852667043143745577
                               )](https://discord.com/users/852667043143745577)         
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=s8v&theme=nord&margin-w=15&margin-h=15&column=7" />
 </p>
