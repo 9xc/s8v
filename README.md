@@ -31,7 +31,8 @@
 </p>
 
 ```
-📧 >> maxbeamed@protonmail.com
+📧 >> Contact me: vxicontact@protonmail.com
+📧 >> Discord: Max?#1234
 👨 >> Name: Max
 ```
 
